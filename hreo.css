@@ -1,0 +1,60 @@
+h1{
+   color: white;
+    text-align: center;
+    text-size-adjust: 100px;
+    background-color:rgb(25, 2, 25);
+    width: 50%;
+    margin-left: 25%;
+}
+ body{
+    background-image: url("solo.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+ } 
+ div{
+    text-align: center;
+    margin: 200px;
+ }
+ .image{
+   margin-left:50px ;
+ }
+ h2{
+   text-align: center;
+   background-color: blueviolet;
+   width: 50%;
+   margin-left: 25%;
+ }
+ fieldset{
+  width:80%;;
+  margin-left: 18%;
+  margin-right: 25%;
+ }
+ legend{
+   font-weight: bold;
+   border-color: black;
+   width: auto;
+ }
+ .marquee{
+   color: aqua;
+ }
+ h3{
+  color:white;
+  text-align: center;
+ }
+ h4{
+  font-weight: bolder;
+  color: azure;
+ }
+ .P{
+  color: grey;
+ }
+ footer{
+  background-color: black;
+  text-align: center;
+ }
+ 
+ 
